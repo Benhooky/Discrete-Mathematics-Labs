@@ -1,0 +1,20 @@
+﻿  MyGraph.cpp
+C:\Users\User\Desktop\Теория графов\LABS1_5\MyGraph.cpp(197,6): warning C4101: tmp: неиспользованная локальная переменная
+C:\Users\User\Desktop\Теория графов\LABS1_5\MyGraph.cpp(305,6): warning C4101: tmpVert: неиспользованная локальная переменная
+C:\Users\User\Desktop\Теория графов\LABS1_5\MyGraph.cpp(433,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Теория графов\LABS1_5\MyGraph.cpp(438,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  easy_menu.cpp
+C:\Users\User\Desktop\Теория графов\LABS1_5\MyGraph.cpp(690,17): warning C4101: result: неиспользованная локальная переменная
+C:\Users\User\Desktop\Теория графов\LABS1_5\easy_menu.cpp(160,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Теория графов\LABS1_5\easy_menu.cpp(212,37): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Теория графов\LABS1_5\easy_menu.cpp(285,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  globals.cpp
+C:\Users\User\Desktop\Теория графов\LABS1_5\easy_menu.cpp(289,43): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\User\Desktop\Теория графов\LABS1_5\globals.cpp(23,20): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  main.cpp
+C:\Users\User\Desktop\Теория графов\LABS1_5\globals.cpp(24,23): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+C:\Users\User\Desktop\Теория графов\LABS1_5\main.cpp(5,13): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Desktop\Теория графов\LABS1_5\easy_menu.cpp(32): warning C4715: IsContinue: значение возвращается не при всех путях выполнения
+C:\Users\User\Desktop\Теория графов\LABS1_5\MyGraph.cpp(113): warning C4715: MyGraph::GetWMatrix: значение возвращается не при всех путях выполнения
+  Lab1.vcxproj -> C:\Users\User\Desktop\Теория графов\LABS1_5\x64\Debug\Lab1.exe
